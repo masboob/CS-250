@@ -11,4 +11,4 @@ Another method is Agile; agile seems to offer a more flexible strategy and it is
 
 
 What does it mean to be a good team member in software development?
-To be a good team member means to have clear communication, understand your role in the project, and making sure you are keeping up with your role.
+- To be a good team member means to have clear communication, understand your role in the project, and making sure you are keeping up with your role.
